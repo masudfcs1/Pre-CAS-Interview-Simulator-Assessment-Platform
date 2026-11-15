@@ -41,3 +41,4 @@ export const DEFAULT_PLATFORM_SETTINGS: PlatformSettings = {
   speechRecognitionLanguage: "en-GB",
   saveLocalRecordings: false
 };
+

@@ -179,3 +179,4 @@ export interface SystemCheckState {
   mediaPipeSupport: 'loading' | 'ready' | 'failed';
   overallStatus: 'ready' | 'warning' | 'blocked';
 }
+

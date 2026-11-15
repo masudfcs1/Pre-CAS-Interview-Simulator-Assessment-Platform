@@ -30,3 +30,4 @@ export function Badge({ className, variant = "default", size = "sm", children, .
     </span>
   );
 }
+

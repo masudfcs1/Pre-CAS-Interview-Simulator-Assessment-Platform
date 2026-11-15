@@ -97,3 +97,4 @@ All tests can be executed via `npm test` or directly inspected in the in-browser
 - [x] Recharts analytics displaying real session and attempt data.
 - [x] 100% client-side privacy: No remote AI API keys or backend server required.
 - [x] Responsive layout supporting desktop, tablet, and mobile browsers with dark/light themes.
+

@@ -172,3 +172,4 @@ export function analyzeAnswerQuality(
 function sentencesCount(text: string): number {
   return text.split(/[.?!]+/).filter(s => s.trim().length > 0).length;
 }
+

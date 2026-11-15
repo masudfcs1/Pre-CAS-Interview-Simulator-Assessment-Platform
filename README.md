@@ -196,3 +196,5 @@ For a detailed breakdown of automated unit test specifications, device verificat
 ## ⚖️ License & University Disclosure
 
 CASReady is designed as an independent practice simulator. The questions, suggested structures, and evaluation rubrics provided are illustrative practice guidelines based on standard UK university Pre-CAS criteria and do not constitute an official university assessment or guarantee of visa issuance.
+
+# Enterprise-Grade-Pre-CAS-Interview-Simulator-Assessment-Platform

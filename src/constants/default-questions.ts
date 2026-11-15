@@ -575,3 +575,4 @@ export const CATEGORY_LABELS: Record<string, { label: string; description: strin
     icon: "Award"
   }
 };
+
